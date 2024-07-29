@@ -1,0 +1,52 @@
+body{
+	font-family: "Open Sans", sans-serif;
+}
+#home{
+	float: right;
+	text-decoration: none;
+	color: steelblue;
+	margin-right: 50px;
+	margin-top: 30px;
+}
+#home:hover{
+	color: cyan;
+}
+.coding{
+	text-align: center;
+	font-weight: 400;
+	color: #444444;
+}
+.free{
+	text-align: center;
+	font-weight: 400;
+	color: #444444;
+	font-size: 40px;
+}
+.pr{
+	margin-left: 110px;
+}
+.parent{
+	font-weight: 400;
+	color: #444444;
+}
+.flex-container{
+	display: flex;
+}
+.fr{
+	margin-right: 20px;
+	width: 250px;
+	height: 30px;
+}
+select{
+	width: 536px;
+	height: 40px;
+	margin-right: 20px;
+}
+.note{
+	background-color: #fff3cd;
+	border: #ffecb5 1px solid;
+	color: #664d03;
+	padding: 10px;
+	height: 30px;
+	margin-right: 150px;
+}

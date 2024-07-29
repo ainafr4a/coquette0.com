@@ -1,0 +1,35 @@
+#disp{
+    background: #809786;
+    color: #E8EEEA;
+    width: 160px;
+    height: 40px;
+    font-size: 20px;
+    text-align: right;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 40px 40px 40px 40px;
+    justify-content: center;
+}
+.grid-container input{
+    height: 40px;
+    color: #E8EEEA;
+    background: #A5B9AA;
+}
+#clean{
+    background: #F5A9AB;
+}
+#equal{
+    background: #7F8881;
+}
+
+
+.custom-bg{
+    background-color: #a1b5a6;
+}
+button {
+    background-color: #708a76;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;

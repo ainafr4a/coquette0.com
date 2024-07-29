@@ -1,0 +1,10 @@
+.custom-bg{
+	background-color: #5b7a8c;
+}
+
+button {
+    background-color: #365F73;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;

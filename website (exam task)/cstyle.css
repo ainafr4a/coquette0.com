@@ -1,0 +1,74 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+#home {
+    float: right;
+    text-decoration: none;
+    color: steelblue;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+#home:hover {
+    color: #f4c2c2;
+}
+
+.coquette {
+	text-align: center;
+    color: #888393;
+}
+
+.contact {
+    
+    color: #8E85A2;
+}
+
+.ms {
+    width: 80%;
+    max-width: 800px;
+    margin: 0px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.mssg {
+    font-weight: 400;
+    text-align: center;
+    color: #565064;
+}
+
+form div {
+    margin-bottom: 15px;
+}
+
+.fr {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+textarea.fr {
+    resize: vertical;
+}
+
+button {
+    background-color: #8E85A2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #7a7191;
+}
+
+.custom-bg{
+    background-color: #b7b1c4;
+}
+
